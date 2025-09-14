@@ -1,2 +1,2 @@
 #output
-file:///E:/web%20projects/Logo%20Website/index.html
+https://naeem-7.github.io/Logo-website/
